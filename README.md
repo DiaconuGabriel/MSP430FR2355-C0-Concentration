@@ -3,4 +3,4 @@
 
 # Pinning diagram
 
-![Untitled Diagram](https://github.com/user-attachments/assets/24c0d5b2-15ba-426e-a41c-a5a9305f5834)
+![Untitled Diagram](https://github.com/user-attachments/assets/5c320e6b-1dbc-48bc-b56c-4df6c1bcfdef)
