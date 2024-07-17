@@ -30,8 +30,8 @@ bool adcdone = false;
 const float Vin = 5.0; // The power supply value in V
 const float R0 = 3.5; //R0 este RS/9.81
 
-const float m = -0.33266;
-const float b = 1.475366;
+const float m = -0.33266; // calculated from mq2 datasheet
+const float b = 1.475366; // calculated from mq2 datasheet
 
 volatile float Vout = 0;
 volatile float RS = 0 ;
