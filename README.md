@@ -1,6 +1,6 @@
 # MSP430FR2355-C0-Concentration
 
-   Acest proiect este un dispozitiv pentru măsurarea concentrației de CO în aer cu un senzor MQ2, afișat pe un afișaj LCD care utilizează i2c și care va anunța prin sunet folosind un buzzer atunci când se depășește valoarea pragului de 400 ppm. Folosește UART pentru a transmite date, astfel încât acestea să poată fi afișate pe consolă.
+      This project is a device for measuring CO concentration in the air using an MQ2 sensor, displayed on an LCD screen with I2C communication. It will provide an audio alert using a buzzer when the threshold value of 400 ppm is exceeded. It uses UART to transmit data so that it can be displayed on the console.
 
 # Diagrama de conectare
 
